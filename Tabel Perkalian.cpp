@@ -20,7 +20,7 @@ main()
 			cout << " " << i * j << "\t ";
 		}
 		
-		cout << endl << endl;
+		cout << endl << endl << endl;
 	}
 	getch();
 }
